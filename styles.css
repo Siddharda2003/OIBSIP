@@ -9,6 +9,7 @@
 }
 .intro{
     font-size: 1.5rem;
+    color: black;
 }
 .feature-icon {
     width: 4rem;
@@ -18,4 +19,43 @@
 .con{
     width: 40px;
     height: 40px;
+}
+.container1{
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    margin-top: 0;
+}
+.mainc{
+    width: 100%;
+}
+.c1, .c3{
+   background-color:limegreen;
+}
+.c2, .c4{
+   background-color: lightgreen; 
+}
+.fs-2, .pb-2{
+    color: black;
+    font-weight: bolder;
+}
+.fs-2-1, .c{
+    color: black;
+    text-align: justify;
+}
+.fs-4{
+    color: white;
+    font-weight: bolder;
+}
+.btn{
+    background-color: white;
+    border-color: white;
+    color: black;
+}
+.card-body{
+    color: white;
+    font-size: 1.3rem;
+}
+.my-0{
+    color: white;
 }
